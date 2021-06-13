@@ -2,3 +2,6 @@ Zmianaaaa
 Zmiana2
 ZMIANA3 
 zmiana05
+
+dodano asystenta pomocy
+Uproszczono intefejs graficzny

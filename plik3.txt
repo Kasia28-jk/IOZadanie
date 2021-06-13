@@ -1,0 +1,8 @@
+Zmiana07b
+naprawa bledow - hotFix-001
+dodano asystenta pomocy
+Uproszczono intefejs graficzny
+
+
+dodano asystenta pomocy
+Uproszczono intefejs graficzny
